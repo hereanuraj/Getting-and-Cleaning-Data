@@ -6,7 +6,6 @@
 
 These are our variable
 
-```
  [1] "Activity Id"                 "Subject Id"                  "tBodyAcc-mean()-X"           "tBodyAcc-mean()-Y"          
  [5] "tBodyAcc-mean()-Z"           "tBodyAcc-std()-X"            "tBodyAcc-std()-Y"            "tBodyAcc-std()-Z"           
  [9] "tGravityAcc-mean()-X"        "tGravityAcc-mean()-Y"        "tGravityAcc-mean()-Z"        "tGravityAcc-std()-X"        
